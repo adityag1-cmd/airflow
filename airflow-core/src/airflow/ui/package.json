@@ -36,7 +36,7 @@
     "@tanstack/react-virtual": "^3.14.8",
     "@visx/group": "^4.0.0",
     "@visx/shape": "^4.0.0",
-    "@xyflow/react": "^12.11.1",
+    "@xyflow/react": "^12.11.5",
     "anser": "^2.3.5",
     "axios": "^1.18.1",
     "chakra-react-select": "^6.1.3",
